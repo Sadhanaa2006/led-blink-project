@@ -22,9 +22,9 @@ The project was created to understand:
 
 ## 📂 Repository Contents
 
--> `main.c` – Source code
--> `.hex` – Compiled output file
--> `.pdsprj` – Proteus simulation project
+-> `led.c` – Source code
+-> `tech.hex` – Compiled output file
+-> `LED BLINKING.pdsprj` – Proteus simulation project
 
 ## ⚙️ Working Principle
 
